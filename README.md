@@ -152,4 +152,5 @@ Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
 
 **Burhan Çavdaroğlu**
 📍 Ankara, Türkiye
-🔗 LinkedIn: [https://linkedin.com/burhancavdaroglu](https://www.linkedin.com/in/burhancavdaroglu/)
+🔗 LinkedIn: [https://linkedin.com/in/burhancavdaroglu](https://www.linkedin.com/in/burhancavdaroglu/)
+
