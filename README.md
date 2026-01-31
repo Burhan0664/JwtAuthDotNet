@@ -140,11 +140,6 @@ dotnet run
 * Client, token ile korumalı endpoint’lere istek atar
 * Token geçerliyse istek kabul edilir, değilse reddedilir
 
----
-
-## 📄 Lisans
-
-Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
 
 ---
 
